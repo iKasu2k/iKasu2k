@@ -2,9 +2,9 @@ Skills: Typcal Allrounder... JavaScript, C#, C++, PHP, Python.. to name a few.
 
 ![Profile views](https://gpvc.arturio.dev/iKasu2k)  
 
-- 👨‍💻 Working on private projects
-- 🧠 Interested in Automation, Botting and Games ;) 
-- 💬 Ask me whatever you want
+👨‍💻 Working on private projects
+🧠 Interested in Automation, Botting and Games ;) 
+💬 Ask me whatever you want
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iKasu2k)](https://github.com/anuraghazra/github-readme-stats)
