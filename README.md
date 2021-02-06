@@ -6,13 +6,11 @@ Skills: Typcal Allrounder... JavaScript, C#, C++, PHP, Python.. to name a few.
 🧠 Interested in Automation, Botting and Games ;) 
 💬 Ask me whatever you want
 
+![GitHub metrics](https://metrics.lecoq.io/iKasu2k) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iKasu2k)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iKasu2k&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/iKasu2k)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iKasu2k)  
 
