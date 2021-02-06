@@ -1,5 +1,4 @@
 Skills: Typcal Allrounder... JavaScript, C#, C++, PHP, Python.. to name a few. 
-
 👨‍💻 Working on private projects
 🧠 Interested in Automation, Botting and Games ;) 
 💬 Ask me whatever you want
