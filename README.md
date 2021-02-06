@@ -1,16 +1,25 @@
-### Hi there 👋
+![Profile views](https://gpvc.arturio.dev/iKasu2k)  
+Skills: Typcal Allrounder... JavaScript, C#, C++, PHP, Python.. to name a few. 
 
-<!--
-**iKasu2k/iKasu2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Working on private projects
+- 🧠 Interested in Automation, Botting and Games ;) 
+- 💬 Ask me whatever you want
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iKasu2k)](https://github.com/anuraghazra/github-readme-stats)
+
+
+ 
+
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iKasu2k&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/iKasu2k)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iKasu2k)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=iKasu2k)](https://github.com/ryo-ma/github-profile-trophy)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iKasu2k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/janester2k)
