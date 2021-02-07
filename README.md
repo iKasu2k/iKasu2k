@@ -1,5 +1,5 @@
 - 👨‍💻 Working on private projects
-- 🧠 Typcal Allrounder, interested in Automation, Botting and Games ;) 
+- 🧠 Typical Allrounder, interested in Automation, Botting and Games ;) 
 - 🔧 JavaScript, C#, C++, PHP, Python.. to name a few. 
 - 💬 Ask me whatever you want
 - ![Profile views](https://gpvc.arturio.dev/iKasu2k)  
